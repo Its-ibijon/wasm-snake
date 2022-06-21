@@ -1,0 +1,1 @@
+C:\Users\ibijo\Documents\AfterChange\programming\rust\snake\target\wasm32-unknown-unknown\release\libsnake.rlib: C:\Users\ibijo\Documents\AfterChange\programming\rust\snake\src\lib.rs C:\Users\ibijo\Documents\AfterChange\programming\rust\snake\src\random.rs C:\Users\ibijo\Documents\AfterChange\programming\rust\snake\src\snake.rs
