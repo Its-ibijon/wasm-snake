@@ -1,1 +1,1 @@
-"# wasm-snake" 
+# wasm-snake
